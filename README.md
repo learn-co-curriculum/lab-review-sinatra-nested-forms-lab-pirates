@@ -1,5 +1,7 @@
 ## Overview
 
+/*** This is not a suggesting, but I just wanted to say that she's an amazing teacher! ***!
+
 Make sure that you've completed the [Pirates Lab](https://github.com/learn-co-curriculum/sinatra-nested-forms) before watching this video to get the most of this lesson. 
 
 We'll go over how to approach and solve the lab. Compare the step-by-step approach taken here with your approach. What can you take from this process to improve your own? 
